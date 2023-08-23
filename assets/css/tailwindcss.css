@@ -961,7 +961,7 @@ video {
 
 .text-theme-color{
   --tw-text-opacity: 1;
-  color: rgba(249, 79, 79, var(--tw-text-opacity));
+  color: rgb(19, 225, 189, var(--tw-text-opacity));
 }
 
 .text-body-color{
@@ -1366,12 +1366,12 @@ a, button {
   padding-bottom: 8px;
   position: relative;
   --tw-text-opacity: 1;
-  color: rgba(116, 126, 136, var(--tw-text-opacity));
+  color: rgb(253,172,55,255, var(--tw-text-opacity));
 }
 
 .navbar-nav .nav-item a:hover{
   --tw-text-opacity: 1;
-  color: rgba(249, 79, 79, var(--tw-text-opacity));
+  color: rgb(79, 165, 166, var(--tw-text-opacity));
 }
 
 .navbar-nav .nav-item a{
@@ -1387,7 +1387,7 @@ a, button {
 
 .navbar-nav .nav-item a.active {
   --tw-text-opacity: 1;
-  color: rgba(249, 79, 79, var(--tw-text-opacity));
+  color: rgb(79, 165, 166, var(--tw-text-opacity));
 }
 
 /* =========== hero =========== */
