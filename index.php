@@ -99,7 +99,7 @@
                                     </li>
 
                                     <li class="nav-item ml-5 lg:ml-11">
-                                        <a class="page-scroll" href="#contact">Contact</a>
+                                        <a class="page-scroll" href="#Document">Document</a>
                                     </li>
                                 </ul>
                             </div>
@@ -292,7 +292,7 @@
     <section id="about" class="about_area pt-120 relative">
         <div class="about_image flex items-end justify-end">
             <div class="image lg:pr-13">
-                <img src="assets/images/about.svg" alt="about" />
+                <img src="assets/images/4782264-removebg-preview.png" alt="about" />
             </div>
         </div>
         <!-- about image -->
@@ -536,7 +536,8 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture1.png"  width="94" height="92" viewBox="0 0 94 92"/>
+                                    <img src="assets/images/Picture1.jpg" width="150" height="150"
+                                        viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -544,7 +545,8 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture2.png"  width="94" height="92" viewBox="0 0 94 92"/>
+                                    <img src="assets/images/Picture2.jpg" width="150" height="150"
+                                        viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -552,7 +554,8 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture3.png"  width="94" height="92" viewBox="0 0 94 92"/>
+                                    <img src="assets/images/Picture3.jpg" width="150" height="150"
+                                        viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -560,26 +563,29 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture4.png"  width="94" height="92" viewBox="0 0 94 92"/>
+                                    <img src="assets/images/Picture4.jpg" width="150" height="150"
+                                        viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!-- Repeat this pair as needed for additional rows -->
                     </div>
                     <div class="row justify-center">
                         <!-- First Pair of Elements -->
                         <div class="text-center mt-8 mx-3">
                             <div class="services_icon">
-                                <img src="assets/images/Picture5.png"  width="94" height="92" viewBox="0 0 94 92"/>
+                                <img src="assets/images/Picture5.jpg" width="150" height="150" viewBox="0 0 94 92" />
                                 </img>
+                                <h3></h3>
                             </div>
                         </div>
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture6.png"  width="94" height="92" viewBox="0 0 94 92"/>
+                                    <img src="assets/images/Picture6.jpg" width="150" height="150"
+                                        viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -587,7 +593,8 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture7.png"  width="94" height="92" viewBox="0 0 94 92"/>
+                                    <img src="assets/images/Picture9.jpg" width="150" height="150"
+                                        viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -595,17 +602,18 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture8.png"  width="94" height="92" viewBox="0 0 94 92"/>
+                                    <img src="assets/images/Picture8.jpg" width="150" height="150"
+                                        viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!-- Repeat this pair as needed for additional rows -->
                     </div>
                 </div>
             </div>
-            
+
             <!-- row -->
         </div>
     </section>
@@ -615,94 +623,176 @@
     <!--====== Domain PART START ======-->
 
     <section id="domain" class="blog_area pt-120">
+        <!-- container -->
+        <!-- <div class="container">
+            <div class="tab">
+                <button class="tablinks" onclick="openCity(event, 'Background')">Background</button>
+                <button class="tablinks" onclick="openCity(event, 'Gap')">Research Gap</button>
+                <button class="tablinks" onclick="openCity(event, 'Problem')">Research Problem</button>
+                <button class="tablinks" onclick="openCity(event, 'Objectives')">Objectives</button>
+            </div>
+
+            <div id="Background" class="tabcontent">
+                <h3>Background</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit</p>
+            </div>
+
+            <div id="Gap" class="tabcontent">
+                <h3>Research Gap</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit</p>
+            </div>
+
+            <div id="Problem" class="tabcontent">
+                <h3>Research Problem</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit</p>
+            </div>
+            <div id="Objectives" class="tabcontent">
+                <h3>Research Problem</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
+                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
+                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit</p>
+            </div>
+        </div> -->
         <div class="container">
             <div class="row justify-center">
                 <div class="w-full lg:w-1/2">
                     <div class="section_title text-center pb-6">
-                        <h5 class="sub_title">Blog</h5>
-                        <h4 class="main_title">From The Blog</h4>
+                        <h4 class="main_title">Our Domain</h4>
                     </div>
                     <!-- section title -->
                 </div>
             </div>
             <!-- row -->
-            <div class="row justify-center lg:justify-start">
-                <div class="w-full md:w-8/12 lg:w-6/12 xl:w-4/12">
-                    <div
-                        class="single_blog mx-3 mt-8 rounded-xl bg-white transition-all duration-300 overflow-hidden hover:shadow-lg">
-                        <div class="blog_image">
-                            <img src="assets/images/blog-1.jpg" alt="blog" class="w-full" />
+            <div class="row justify-center">
+                <div class="w-full sm:w-10/12 md:w-6/12 lg:w-6/12">
+                    <div class="single_services text-center mt-8 mx-3">
+                        <div class="services_icon">
+                            <i class="lni lni-write"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
+                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                            </svg>
                         </div>
-                        <div class="blog_content p-4 md:p-5">
-                            <ul class="blog_meta flex justify-between">
-                                <li class="text-body-color text-sm md:text-base">
-                                    By:
-                                    <a href="#" class="text-body-color hover:text-theme-color">Musharof Chowdury</a>
-                                </li>
-                                <li class="text-body-color text-sm md:text-base">
-                                    15 June 2024
-                                </li>
-                            </ul>
-                            <h3 class="blog_title">
-                                <a href="#">How to track your business revenue</a>
+                        <div class="services_content mt-5">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-3xl">
+                                Research
                             </h3>
-                            <a href="#" class="more_btn">Read More</a>
+                            <p class="mt-4">
+                                In the research phase of DeMedia protocol development,
+                                thorough analysis of decentralized social media is done. This
+                                includes studying existing protocols.
+                            </p>
                         </div>
                     </div>
-                    <!-- row -->
+                    <!-- single services -->
                 </div>
-                <div class="w-full md:w-8/12 lg:w-6/12 xl:w-4/12">
-                    <div
-                        class="single_blog mx-3 mt-8 rounded-xl bg-white transition-all duration-300 overflow-hidden hover:shadow-lg">
-                        <div class="blog_image">
-                            <img src="assets/images/blog-2.jpg" alt="blog" class="w-full" />
+                <div class="w-full sm:w-10/12 md:w-6/12 lg:w-6/12">
+                    <div class="single_services text-center mt-8 mx-3">
+                        <div class="services_icon">
+                            <i class="lni lni-bulb"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
+                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                            </svg>
                         </div>
-                        <div class="blog_content p-4 md:p-5">
-                            <ul class="blog_meta flex justify-between">
-                                <li class="text-body-color text-sm md:text-base">
-                                    By:
-                                    <a href="#" class="text-body-color hover:text-theme-color">Musharof Chowdury</a>
-                                </li>
-                                <li class="text-body-color text-sm md:text-base">
-                                    15 June 2024
-                                </li>
-                            </ul>
-                            <h3 class="blog_title">
-                                <a href="#">Improving products depending on feedback</a>
+                        <div class="services_content mt-5">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-3xl">
+                                Prototype
                             </h3>
-                            <a href="#" class="more_btn">Read More</a>
+                            <p class="mt-4">
+                                In DeMedia's prototype phase, a basic version demonstrates
+                                core social media concepts. This model validates ideas,
+                                gathers feedback before full development.
+                            </p>
                         </div>
                     </div>
-                    <!-- row -->
+                    <!-- single services -->
                 </div>
-                <div class="w-full md:w-8/12 lg:w-6/12 xl:w-4/12">
-                    <div
-                        class="single_blog mx-3 mt-8 rounded-xl bg-white transition-all duration-300 overflow-hidden hover:shadow-lg">
-                        <div class="blog_image">
-                            <img src="assets/images/blog-3.jpg" alt="blog" class="w-full" />
+                <div class="w-full sm:w-10/12 md:w-6/12 lg:w-6/12">
+                    <div class="single_services text-center mt-8 mx-3">
+                        <div class="services_icon">
+                            <i class="lni lni-checkmark-circle"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
+                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                            </svg>
                         </div>
-                        <div class="blog_content p-4 md:p-5">
-                            <ul class="blog_meta flex justify-between">
-                                <li class="text-body-color text-sm md:text-base">
-                                    By:
-                                    <a href="#" class="text-body-color hover:text-theme-color">Musharof Chowdury</a>
-                                </li>
-                                <li class="text-body-color text-sm md:text-base">
-                                    15 June 2024
-                                </li>
-                            </ul>
-                            <h3 class="blog_title">
-                                <a href="#">How to diversify your audience</a>
+                        <div class="services_content mt-5">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-3xl">
+                                Build
                             </h3>
-                            <a href="#" class="more_btn">Read More</a>
+                            <p class="mt-4">
+                                Developers build architecture, integrate components, refine
+                                features per protocol design. Rigorous testing ensures
+                                stability, security, scalability.
+                            </p>
                         </div>
                     </div>
-                    <!-- row -->
+                    <!-- single services -->
+                </div>
+                <div class="w-full sm:w-10/12 md:w-6/12 lg:w-6/12">
+                    <div class="single_services text-center mt-8 mx-3">
+                        <div class="services_icon">
+                            <i class="lni lni-checkmark-circle"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
+                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                            </svg>
+                        </div>
+                        <div class="services_content mt-5">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-3xl">
+                                Build
+                            </h3>
+                            <p class="mt-4">
+                                Developers build architecture, integrate components, refine
+                                features per protocol design. Rigorous testing ensures
+                                stability, security, scalability.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- single services -->
                 </div>
             </div>
             <!-- row -->
         </div>
-        <!-- container -->
     </section>
 
     <!--====== Domain PART ENDS ======-->
@@ -752,7 +842,7 @@
                         <div class="single_team_item mx-auto">
                             <div class="single_team mx-3">
                                 <div class="team_image relative">
-                                    <img src="assets/images/team-3.jpg" alt="team" class="w-full" />
+                                    <img src="assets/images/KavingaSir.jpg" alt="team" class="w-full" />
                                     <ul class="social absolute top-4 right-8">
                                         <li>
                                             <a href="#"><i class="lni lni-facebook-filled"></i></a>
@@ -767,10 +857,13 @@
                                 </div>
                                 <div class="team_content py-5 px-8 relative">
                                     <h4 class="team_name text-xl md:text-2xl">
-                                        <a href="#" class="text-black group-hover:text-white">Sarah Doe</a>
+                                        <a href="#" class="text-black group-hover:text-white">Mr. Kavinga Abeywardena</a>
                                     </h4>
                                     <p class="mt-2 transition-all duration-300 group-hover:text-white">
-                                        UI Designer
+                                        Supervisor
+                                    </p>
+                                    <p class="mt-2 transition-all duration-300 group-hover:text-white">
+                                        kavinga.y@sliit.lk
                                     </p>
                                 </div>
                             </div>
@@ -809,7 +902,7 @@
                         <div class="single_team_item mx-auto">
                             <div class="single_team mx-3">
                                 <div class="team_image relative">
-                                    <img src="assets/images/team-2.jpg" alt="team" class="w-full" />
+                                    <img src="assets/images/SithumAyya.jpg" alt="team" class="w-full" />
                                     <ul class="social absolute top-4 right-8">
                                         <li>
                                             <a href="#"><i class="lni lni-facebook-filled"></i></a>
@@ -824,10 +917,10 @@
                                 </div>
                                 <div class="team_content py-5 px-8 relative">
                                     <h4 class="team_name text-xl md:text-2xl">
-                                        <a href="#" class="text-black group-hover:text-white">Chris Dave</a>
+                                        <a href="#" class="text-black group-hover:text-white">Situm Perera</a>
                                     </h4>
                                     <p class="mt-2 transition-all duration-300 group-hover:text-white">
-                                        Founder and CEO
+                                        Team Leader
                                     </p>
                                 </div>
                             </div>
@@ -838,7 +931,7 @@
                         <div class="single_team_item mx-auto">
                             <div class="single_team mx-3">
                                 <div class="team_image relative">
-                                    <img src="assets/images/team-3.jpg" alt="team" class="w-full" />
+                                    <img src="assets/images/ChirathAyya.png" alt="team" class="w-full" />
                                     <ul class="social absolute top-4 right-8">
                                         <li>
                                             <a href="#"><i class="lni lni-facebook-filled"></i></a>
@@ -853,10 +946,10 @@
                                 </div>
                                 <div class="team_content py-5 px-8 relative">
                                     <h4 class="team_name text-xl md:text-2xl">
-                                        <a href="#" class="text-black group-hover:text-white">Sarah Doe</a>
+                                        <a href="#" class="text-black group-hover:text-white">Chirath Bandara</a>
                                     </h4>
                                     <p class="mt-2 transition-all duration-300 group-hover:text-white">
-                                        UI Designer
+                                        Member
                                     </p>
                                 </div>
                             </div>
@@ -867,7 +960,7 @@
                         <div class="single_team_item mx-auto">
                             <div class="single_team mx-3">
                                 <div class="team_image relative">
-                                    <img src="assets/images/team-2.jpg" alt="team" class="w-full" />
+                                    <img src="assets/images/SaviNangi.jpg" alt="team" class="w-full" />
                                     <ul class="social absolute top-4 right-8">
                                         <li>
                                             <a href="#"><i class="lni lni-facebook-filled"></i></a>
@@ -882,10 +975,10 @@
                                 </div>
                                 <div class="team_content py-5 px-8 relative">
                                     <h4 class="team_name text-xl md:text-2xl">
-                                        <a href="#" class="text-black group-hover:text-white">Chris Dave</a>
+                                        <a href="#" class="text-black group-hover:text-white">Savindya Dhananjani</a>
                                     </h4>
                                     <p class="mt-2 transition-all duration-300 group-hover:text-white">
-                                        Founder and CEO
+                                        Member
                                     </p>
                                 </div>
                             </div>
@@ -896,7 +989,7 @@
                         <div class="single_team_item mx-auto">
                             <div class="single_team mx-3">
                                 <div class="team_image relative">
-                                    <img src="assets/images/team-2.jpg" alt="team" class="w-full" />
+                                    <img src="assets/images/yohani.png" alt="team" class="w-full" />
                                     <ul class="social absolute top-4 right-8">
                                         <li>
                                             <a href="#"><i class="lni lni-facebook-filled"></i></a>
@@ -911,10 +1004,10 @@
                                 </div>
                                 <div class="team_content py-5 px-8 relative">
                                     <h4 class="team_name text-xl md:text-2xl">
-                                        <a href="#" class="text-black group-hover:text-white">Micheal Jordan</a>
+                                        <a href="#" class="text-black group-hover:text-white">Yohani Abeykoon</a>
                                     </h4>
                                     <p class="mt-2 transition-all duration-300 group-hover:text-white">
-                                        Business Development Manager
+                                        Member
                                     </p>
                                 </div>
                             </div>
@@ -932,79 +1025,55 @@
 
     <!--====== CONTACT PART START ======-->
 
-    <section id="contact" class="contact_area relative pt-18 pb-120">
-        <div class="contact_image flex items-center justify-end">
-            <div class="image lg:pr-13">
-                <img src="assets/images/contact.svg" alt="about" />
-            </div>
-        </div>
-        <!-- about image -->
+    <section id="Document" class="contact_area relative pt-18 pb-120">
 
-        <div class="container">
-            <div class="row justify-end">
-                <div class="w-full lg:w-1/2">
-                    <div class="contact_wrapper mt-11">
-                        <div class="section_title pb-4">
-                            <h5 class="sub_title">Contact</h5>
-                            <h4 class="main_title">Get In Touch</h4>
-                            <p>
-                                Lorem ipsum dolor sitrg amet, consetetur sadipscing elitr sed
-                                diam nonumy eirmod tempor invidunt ut labore et dolore magna.
-                            </p>
-                        </div>
-                        <!-- section title -->
-
-                        <div class="contact_form">
-                            <form id="contact-form" action="assets/php/contact.php" method="POST">
-                                <div class="row">
-                                    <div class="w-full md:w-1/2">
-                                        <div class="mx-3">
-                                            <div class="single_form mt-8">
-                                                <input name="name" id="name" type="text" placeholder="Name"
-                                                    class="w-full rounded-md py-4 px-6 border border-solid border-body-color" />
-                                            </div>
-                                            <!-- single form -->
-                                        </div>
-                                    </div>
-                                    <div class="w-full md:w-1/2">
-                                        <div class="mx-3">
-                                            <div class="single_form mt-8">
-                                                <input name="email" id="email" type="email" placeholder="Email"
-                                                    class="w-full rounded-md py-4 px-6 border border-solid border-body-color" />
-                                            </div>
-                                            <!-- single form -->
-                                        </div>
-                                    </div>
-                                    <div class="w-full">
-                                        <div class="mx-3">
-                                            <div class="single_form mt-8">
-                                                <textarea name="message" id="message" placeholder="Message" rows="5"
-                                                    class="w-full rounded-md py-4 px-6 border border-solid border-body-color resize-none"></textarea>
-                                            </div>
-                                            <!-- single form -->
-                                        </div>
-                                    </div>
-                                    <p class="form-message mx-3"></p>
-                                    <div class="w-full">
-                                        <div class="mx-3">
-                                            <div class="single_form mt-8">
-                                                <button type="submit" class="main-btn contact-btn">
-                                                    Submit
-                                                </button>
-                                            </div>
-                                            <!-- single form -->
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- row -->
-                            </form>
-                        </div>
-                        <!-- contact form -->
-                    </div>
-                    <!-- contact wrapper -->
+    <div class="container">
+        <div class="row justify-center">
+            <div class="w-full lg:w-1/2">
+                <div class="section_title text-center pb-6">
+                    <h4 class="main_title">Our Documents</h4>
                 </div>
             </div>
-            <!-- row -->
+        </div>
+
+        <div class="row justify-center">
+            
+                <?php
+                $directory = 'E:\XAMPP\htdocs\Play\Plain – Tailwind CSS Free Business Landing Page\plain-free\assets\files';
+
+                // Get a list of files in the directory
+                $files = scandir($directory);
+
+                // Initialize a counter for columns
+                $columnCounter = 0;
+
+                // Loop through the files and display them as cards
+                foreach ($files as $file) {
+                    if ($file !== '.' && $file !== '..') {
+                        // Get the file extension
+                        $fileExtension = pathinfo($file, PATHINFO_EXTENSION);
+
+                        // Display an image for each PDF file
+                        if (strtolower($fileExtension) === 'pdf') {
+                            echo '<div class="card"><a href="' . $directory . '/' . $file . '" download>';
+                            echo '<img src="/assets/files/pdf.jpg" alt="PDF File">';
+                            echo '<br>' . $file . '</a></div>';
+                        } else {
+                            echo '<div class="card"><a href="' . $directory . '/' . $file . '">' . $file . '</a></div>';
+                        }
+
+                        // Increment the column counter
+                        $columnCounter++;
+
+                        // Start a new row after every 3 columns
+                        if ($columnCounter === 3) {
+                            echo '<br>';
+                            $columnCounter = 0;
+                        }
+                    }
+                }
+                ?>
+            
         </div>
         <!-- container -->
     </section>
