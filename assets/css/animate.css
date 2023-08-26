@@ -3627,16 +3627,27 @@
 
 .card {
   border: 1px solid #ccc;
+  background-color: #fff;
   padding: 10px;
-  margin: 10px;
   text-align: center;
-  width: 30%;
-  display: inline-block;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease-in-out;
+  margin: 30px; /* Add margin to create a gap between cards */
+  border-radius: 20px;
 }
 .card img {
-  max-width: 100%;
-  max-height: 150px;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 10px;
+  max-width: 200px;
+  height: auto;
+}
+
+.download-link {
+  text-decoration: none;
+  color: #428bca;
+  font-weight: bold;
+}
+
+.download-link:hover {
+  text-decoration: underline;
 }

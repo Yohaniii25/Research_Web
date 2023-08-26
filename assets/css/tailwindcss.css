@@ -1265,7 +1265,7 @@ a, button {
   font-size: 1rem;
   line-height: 1.5rem;
   --tw-text-opacity: 1;
-  color: rgba(249, 79, 79, var(--tw-text-opacity));
+  color: rgba(19, 225, 189, var(--tw-text-opacity));
 }
 
 @media (min-width: 720px){
@@ -1535,7 +1535,7 @@ a, button {
 
 .single_services:hover{
   --tw-border-opacity: 1;
-  border-color: rgba(249, 79, 79, var(--tw-border-opacity));
+  border-color: rgb(79, 165, 166, var(--tw-border-opacity));
 }
 
 .single_services{
@@ -1623,7 +1623,7 @@ a, button {
 .single_services:hover .services_shape {
   fill: currentColor;
   --tw-text-opacity: 1;
-  color: rgba(249, 79, 79, var(--tw-text-opacity));
+  color: rgb(79, 165, 166, var(--tw-text-opacity));
 }
 
 /* ========== about ========== */
@@ -1664,7 +1664,7 @@ a, button {
 
 .about_check i {
   --tw-bg-opacity: 1;
-  background-color: rgba(249, 79, 79, var(--tw-bg-opacity));
+  background-color: rgb(19, 225, 189, var(--tw-bg-opacity));
   border-radius: 9999px;
   display: flex;
   align-items: center;
@@ -1805,7 +1805,7 @@ a, button {
 
 .single_team:hover .group-hover\:bg-black{
   --tw-bg-opacity: 1;
-  background-color: rgba(56, 66, 77, var(--tw-bg-opacity));
+  background-color: rgb(79, 165, 166, var(--tw-bg-opacity));
 }
 
 .single_team:hover .group-hover\:bg-white{

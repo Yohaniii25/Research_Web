@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png" />
+    <link rel="shortcut icon" href="assets/images/Demedia-New-Logo.png" type="image/png" />
 
     <!--====== Animate CSS ======-->
     <link rel="stylesheet" href="assets/css/animate.css" />
@@ -67,18 +67,14 @@
                             <a class="navbar-brand mr-5" href="index.html">
                                 <img src="assets/images/Demedia-New-Logo.png" width="20%" height="20%" alt="Logo" />
                             </a>
-                            <button class="block navbar-toggler focus:outline-none lg:hidden" type="button"
-                                data-toggle="collapse" data-target="#navbarOne" aria-controls="navbarOne"
-                                aria-expanded="false" aria-label="Toggle navigation">
+                            <button class="block navbar-toggler focus:outline-none lg:hidden" type="button" data-toggle="collapse" data-target="#navbarOne" aria-controls="navbarOne" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
                                 <span class="toggler-icon"></span>
                                 <span class="toggler-icon"></span>
                             </button>
 
-                            <div class="absolute left-0 z-20 hidden w-full px-5 py-3 duration-300 bg-white lg:w-auto collapse navbar-collapse lg:block top-full mt-full lg:static lg:bg-transparent shadow lg:shadow-none"
-                                id="navbarOne">
-                                <ul id="nav"
-                                    class="items-center content-start mr-auto lg:justify-end navbar-nav lg:flex">
+                            <div class="absolute left-0 z-20 hidden w-full px-5 py-3 duration-300 bg-white lg:w-auto collapse navbar-collapse lg:block top-full mt-full lg:static lg:bg-transparent shadow lg:shadow-none" id="navbarOne">
+                                <ul id="nav" class="items-center content-start mr-auto lg:justify-end navbar-nav lg:flex">
                                     <li class="nav-item ml-5 lg:ml-11">
                                         <a class="page-scroll active" href="#home">Home</a>
                                     </li>
@@ -164,8 +160,7 @@
                 <div class="row">
                     <div class="w-full lg:w-1/2">
                         <div class="header_hero_content pt-150 lg:pt-0">
-                            <h2
-                                class="hero_title text-2xl sm:text-4xl md:text-5xl lg:text-4xl xl:text-5xl font-extrabold">
+                            <h2 class="hero_title text-2xl sm:text-4xl md:text-5xl lg:text-4xl xl:text-5xl font-extrabold">
                                 <span class="text-theme-color">DeMedia</span> Decentralized
                                 Social Media Protocol
                             </h2>
@@ -218,8 +213,7 @@
                         <div class="services_icon">
                             <i class="lni lni-write"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5">
@@ -240,8 +234,7 @@
                         <div class="services_icon">
                             <i class="lni lni-bulb"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5">
@@ -262,8 +255,7 @@
                         <div class="services_icon">
                             <i class="lni lni-checkmark-circle"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5">
@@ -374,13 +366,11 @@
                         <div class="services_icon">
                             <i class="lni lni-layout"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5 xl:mt-10">
-                            <h3
-                                class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
                                 Distributed systems
                             </h3>
                             <p class="mt-4">
@@ -398,13 +388,11 @@
                         <div class="services_icon">
                             <i class="lni lni-bullhorn"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5 xl:mt-10">
-                            <h3
-                                class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
                                 Network protocols
                             </h3>
                             <p class="mt-4">
@@ -421,13 +409,11 @@
                         <div class="services_icon">
                             <i class="lni lni-mobile"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5 xl:mt-10">
-                            <h3
-                                class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
                                 Data storage and management
                             </h3>
                             <p class="mt-4">
@@ -445,13 +431,11 @@
                         <div class="services_icon">
                             <i class="lni lni-seo"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5 xl:mt-10">
-                            <h3
-                                class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
                                 Identity and access management
                             </h3>
                             <p class="mt-4">
@@ -468,13 +452,11 @@
                         <div class="services_icon">
                             <i class="lni lni-layers"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5 xl:mt-10">
-                            <h3
-                                class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
                                 User experience design
                             </h3>
                             <p class="mt-4">
@@ -491,13 +473,11 @@
                         <div class="services_icon">
                             <i class="lni lni-briefcase"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5 xl:mt-10">
-                            <h3
-                                class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
+                            <h3 class="services_title text-black font-semibold text-xl md:text-2xl lg:text-xl xl:text-3xl">
                                 Privacy and security
                             </h3>
                             <p class="mt-4">
@@ -536,8 +516,7 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture1.jpg" width="150" height="150"
-                                        viewBox="0 0 94 92" />
+                                    <img src="assets/images/Picture1.jpg" width="150" height="150" viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -545,8 +524,7 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture2.jpg" width="150" height="150"
-                                        viewBox="0 0 94 92" />
+                                    <img src="assets/images/Picture2.jpg" width="150" height="150" viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -554,8 +532,7 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture3.jpg" width="150" height="150"
-                                        viewBox="0 0 94 92" />
+                                    <img src="assets/images/Picture3.jpg" width="150" height="150" viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -563,8 +540,7 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture4.jpg" width="150" height="150"
-                                        viewBox="0 0 94 92" />
+                                    <img src="assets/images/Picture4.jpg" width="150" height="150" viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -584,8 +560,7 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture6.jpg" width="150" height="150"
-                                        viewBox="0 0 94 92" />
+                                    <img src="assets/images/Picture6.jpg" width="150" height="150" viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -593,8 +568,7 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture9.jpg" width="150" height="150"
-                                        viewBox="0 0 94 92" />
+                                    <img src="assets/images/Picture9.jpg" width="150" height="150" viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -602,8 +576,7 @@
                         <div class="w-full sm:w-10/12 md:w-6/12 lg:w-3/12 flex justify-center">
                             <div class="text-center mt-8 mx-3">
                                 <div class="services_icon">
-                                    <img src="assets/images/Picture8.jpg" width="150" height="150"
-                                        viewBox="0 0 94 92" />
+                                    <img src="assets/images/Picture8.jpg" width="150" height="150" viewBox="0 0 94 92" />
                                     </img>
                                 </div>
                             </div>
@@ -624,73 +597,7 @@
 
     <section id="domain" class="blog_area pt-120">
         <!-- container -->
-        <!-- <div class="container">
-            <div class="tab">
-                <button class="tablinks" onclick="openCity(event, 'Background')">Background</button>
-                <button class="tablinks" onclick="openCity(event, 'Gap')">Research Gap</button>
-                <button class="tablinks" onclick="openCity(event, 'Problem')">Research Problem</button>
-                <button class="tablinks" onclick="openCity(event, 'Objectives')">Objectives</button>
-            </div>
 
-            <div id="Background" class="tabcontent">
-                <h3>Background</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit</p>
-            </div>
-
-            <div id="Gap" class="tabcontent">
-                <h3>Research Gap</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit</p>
-            </div>
-
-            <div id="Problem" class="tabcontent">
-                <h3>Research Problem</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit</p>
-            </div>
-            <div id="Objectives" class="tabcontent">
-                <h3>Research Problem</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Curabitur vestibulum elementum ornare. Aliquam interdum metus in porttitor tincidunt.
-                    Vestibulum erat metus, fermentum at aliquet vitae, lobortis ultrices eros.
-                    Cras ullamcorper magna at lacus ornare, nec scelerisque diam suscipit</p>
-            </div>
-        </div> -->
         <div class="container">
             <div class="row justify-center">
                 <div class="w-full lg:w-1/2">
@@ -707,13 +614,12 @@
                         <div class="services_icon">
                             <i class="lni lni-write"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5">
                             <h3 class="services_title text-black font-semibold text-xl md:text-3xl">
-                                Research
+                                Background
                             </h3>
                             <p class="mt-4">
                                 In the research phase of DeMedia protocol development,
@@ -729,13 +635,12 @@
                         <div class="services_icon">
                             <i class="lni lni-bulb"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5">
                             <h3 class="services_title text-black font-semibold text-xl md:text-3xl">
-                                Prototype
+                                Research Gap
                             </h3>
                             <p class="mt-4">
                                 In DeMedia's prototype phase, a basic version demonstrates
@@ -751,13 +656,12 @@
                         <div class="services_icon">
                             <i class="lni lni-checkmark-circle"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5">
                             <h3 class="services_title text-black font-semibold text-xl md:text-3xl">
-                                Build
+                                Research Problem
                             </h3>
                             <p class="mt-4">
                                 Developers build architecture, integrate components, refine
@@ -773,13 +677,12 @@
                         <div class="services_icon">
                             <i class="lni lni-checkmark-circle"></i>
                             <svg xmlns="http://www.w3.org/2000/svg" width="94" height="92" viewBox="0 0 94 92">
-                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12"
-                                    d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
+                                <path class="services_shape" id="Polygon_12" data-name="Polygon 12" d="M42.212,2.315a11,11,0,0,1,9.576,0l28.138,13.6a11,11,0,0,1,5.938,7.465L92.83,54.018A11,11,0,0,1,90.717,63.3L71.22,87.842A11,11,0,0,1,62.607,92H31.393a11,11,0,0,1-8.613-4.158L3.283,63.3A11,11,0,0,1,1.17,54.018L8.136,23.383a11,11,0,0,1,5.938-7.465Z" />
                             </svg>
                         </div>
                         <div class="services_content mt-5">
                             <h3 class="services_title text-black font-semibold text-xl md:text-3xl">
-                                Build
+                                Objectives
                             </h3>
                             <p class="mt-4">
                                 Developers build architecture, integrate components, refine
@@ -842,7 +745,7 @@
                         <div class="single_team_item mx-auto">
                             <div class="single_team mx-3">
                                 <div class="team_image relative">
-                                    <img src="assets/images/KavingaSir.jpg" alt="team" class="w-full" />
+                                    <img src="assets/images/KavingaSir_New.jpg" alt="team" class="w-full" />
                                     <ul class="social absolute top-4 right-8">
                                         <li>
                                             <a href="#"><i class="lni lni-facebook-filled"></i></a>
@@ -931,7 +834,7 @@
                         <div class="single_team_item mx-auto">
                             <div class="single_team mx-3">
                                 <div class="team_image relative">
-                                    <img src="assets/images/ChirathAyya.png" alt="team" class="w-full" />
+                                    <img src="assets/images/Chirath_New.jpg" alt="team" class="w-full" />
                                     <ul class="social absolute top-4 right-8">
                                         <li>
                                             <a href="#"><i class="lni lni-facebook-filled"></i></a>
@@ -989,7 +892,7 @@
                         <div class="single_team_item mx-auto">
                             <div class="single_team mx-3">
                                 <div class="team_image relative">
-                                    <img src="assets/images/yohani.png" alt="team" class="w-full" />
+                                    <img src="assets/images/Yohani_New.jpg" alt="team" class="w-full" />
                                     <ul class="social absolute top-4 right-8">
                                         <li>
                                             <a href="#"><i class="lni lni-facebook-filled"></i></a>
@@ -1025,57 +928,123 @@
 
     <!--====== CONTACT PART START ======-->
 
-    <section id="Document" class="contact_area relative pt-18 pb-120">
+    <section id="Document" class="blog_area pt-120">
 
-    <div class="container">
-        <div class="row justify-center">
-            <div class="w-full lg:w-1/2">
+        <div class="container">
+            <div class="row justify-center">
+
                 <div class="section_title text-center pb-6">
                     <h4 class="main_title">Our Documents</h4>
                 </div>
+
             </div>
-        </div>
 
-        <div class="row justify-center">
-            
-                <?php
-                $directory = 'E:\XAMPP\htdocs\Play\Plain – Tailwind CSS Free Business Landing Page\plain-free\assets\files';
+            <!-- container -->
+            <div class="container">
 
-                // Get a list of files in the directory
-                $files = scandir($directory);
+                <div class="row justify-center">
+                    <?php
+                    // Define an array with information about each document
+                    $documents = array(
+                        array(
+                            'image' => 'assets/files/pdf.jpg',
+                            'pdf' => 'assets/files/TAF.pdf',
+                            'title' => 'Document 1'
+                        ),
+                        array(
+                            'image' => 'assets/files/pdf.jpg',
+                            'pdf' => 'assets/files/document2.pdf',
+                            'title' => 'Document 2'
+                        ),
+                        array(
+                            'image' => 'assets/files/pdf.jpg',
+                            'pdf' => 'assets/files/document3.pdf',
+                            'title' => 'Document 3'
+                        ),
+                        array(
+                            'image' => 'assets/files/pdf.jpg',
+                            'pdf' => 'assets/files/document3.pdf',
+                            'title' => 'Document 3'
+                        ),
+                        // Add more documents as needed
+                    );
 
-                // Initialize a counter for columns
-                $columnCounter = 0;
-
-                // Loop through the files and display them as cards
-                foreach ($files as $file) {
-                    if ($file !== '.' && $file !== '..') {
-                        // Get the file extension
-                        $fileExtension = pathinfo($file, PATHINFO_EXTENSION);
-
-                        // Display an image for each PDF file
-                        if (strtolower($fileExtension) === 'pdf') {
-                            echo '<div class="card"><a href="' . $directory . '/' . $file . '" download>';
-                            echo '<img src="/assets/files/pdf.jpg" alt="PDF File">';
-                            echo '<br>' . $file . '</a></div>';
-                        } else {
-                            echo '<div class="card"><a href="' . $directory . '/' . $file . '">' . $file . '</a></div>';
-                        }
-
-                        // Increment the column counter
-                        $columnCounter++;
-
-                        // Start a new row after every 3 columns
-                        if ($columnCounter === 3) {
-                            echo '<br>';
-                            $columnCounter = 0;
-                        }
+                    // Loop through the documents and create cards
+                    foreach ($documents as $document) {
+                        echo '<div class="col-lg-4 col-md-6">';
+                        echo '<div class="single-feature-extended">';
+                        echo '<div class="card" onclick="downloadPDF(\'' . $document['pdf'] . '\')">';
+                        echo '<div class="card_image">';
+                        echo '<img src="' . $document['image'] . '" alt="' . $document['title'] . '">';
+                        echo '</div>';
+                        echo '<div class="content">';
+                        echo '<h3>' . $document['title'] . '</h3>';
+                        echo '</div>';
+                        echo '</div>';
+                        echo '</div>';
+                        echo '</div>';
                     }
-                }
-                ?>
-            
-        </div>
-        <!-- container -->
+                    ?>
+                </div>
+
+                <!-- Add a new row for the second row of cards with the same structure -->
+                <div class="row justify-center">
+                    <?php
+                    // Define a new set of documents for the second row
+                    $documents2 = array(
+                        array(
+                            'image' => 'assets/files/pdf.jpg',
+                            'pdf' => 'assets/files/document4.pdf',
+                            'title' => 'Document 4'
+                        ),
+                        array(
+                            'image' => 'assets/files/pdf.jpg',
+                            'pdf' => 'assets/files/document5.pdf',
+                            'title' => 'Document 5'
+                        ),
+                        array(
+                            'image' => 'assets/files/pdf.jpg',
+                            'pdf' => 'assets/files/document6.pdf',
+                            'title' => 'Document 6'
+                        ),
+                        array(
+                            'image' => 'assets/files/pdf.jpg',
+                            'pdf' => 'assets/files/document6.pdf',
+                            'title' => 'Document 6'
+                        ),
+                        // Add more documents for the second row as needed
+                    );
+
+                    // Loop through the second set of documents and create cards
+                    foreach ($documents2 as $document) {
+                        echo '<div class="col-lg-4 col-md-6">';
+                        echo '<div class="single-feature-extended">';
+                        echo '<div class="card" onclick="downloadPDF(\'' . $document['pdf'] . '\')">';
+                        echo '<div class="card_image">';
+                        echo '<img src="' . $document['image'] . '" alt="' . $document['title'] . '">';
+                        echo '</div>';
+                        echo '<div class="content">';
+                        echo '<h3>' . $document['title'] . '</h3>';
+                        echo '</div>';
+                        echo '</div>';
+                        echo '</div>';
+                        echo '</div>';
+                    }
+                    ?>
+                </div>
+
+                <script>
+                    function downloadPDF(pdfUrl) {
+                        // Create a temporary link element
+                        var link = document.createElement('a');
+                        link.href = pdfUrl;
+                        link.target = '_blank'; // Open the link in a new tab (optional)
+
+                        // Trigger the click event on the link to initiate the download
+                        link.click();
+                    }
+                </script>
+            </div>
     </section>
 
     <!--====== CONTACT PART ENDS ======-->
@@ -1099,8 +1068,7 @@
                             </div>
                             <div class="footer_content mt-8">
                                 <p class="text-white">
-                                    Lorem ipsum dolor sitco nsetetu nonumy eirmod tempor
-                                    invidunt ut labore et dolore magna uyam erat, sed diam.
+                                DeMedia - a protocol that facilitates the development of decentralized social media platforms.
                                 </p>
                             </div>
                         </div>
@@ -1114,13 +1082,22 @@
                                 </h2>
                                 <ul class="link pt-4">
                                     <li>
-                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Company</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Privacy Policy</a>
-                                    </li>
-                                    <li>
                                         <a href="#" class="text-white mt-4 hover:text-theme-color">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Features</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Tools</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Domain</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Team</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Document</a>
                                     </li>
                                 </ul>
                             </div>
@@ -1130,6 +1107,15 @@
                                     Resources
                                 </h2>
                                 <ul class="link pt-4">
+                                    <li>
+                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Support</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Contact</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-white mt-4 hover:text-theme-color">Terms</a>
+                                    </li>
                                     <li>
                                         <a href="#" class="text-white mt-4 hover:text-theme-color">Support</a>
                                     </li>
@@ -1152,8 +1138,7 @@
                             </h2>
                             <div class="subscribe_form text-right mt-9 relative">
                                 <form action="#">
-                                    <input type="text" placeholder="Enter email"
-                                        class="w-full py-5 px-6 bg-white text-black rounded-full border-none" />
+                                    <input type="text" placeholder="Enter email" class="w-full py-5 px-6 bg-white text-black rounded-full border-none" />
                                     <button class="main-btn subscribe-btn">Subscribe</button>
                                 </form>
                             </div>
@@ -1164,8 +1149,7 @@
                 <!-- row -->
             </div>
             <!-- footer widget -->
-            <div
-                class="footer_copyright pt-3 pb-6 border-t-2 border-solid border-white border-opacity-10 sm:flex justify-between">
+            <div class="footer_copyright pt-3 pb-6 border-t-2 border-solid border-white border-opacity-10 sm:flex justify-between">
                 <div class="footer_social pt-4 mx-3 text-center">
                     <ul class="social flex justify-center sm:justify-start">
                         <li class="mr-3">
@@ -1186,10 +1170,9 @@
                 <div class="footer_copyright_content pt-4 text-center">
                     <p class="text-white">
                         Designed and Developed by
-                        <a href="https://uideck.com" rel="nofollow" class="text-white hover:text-theme-color">UIdeck</a>
+                        <a href="#" rel="nofollow" class="text-white hover:text-theme-color">Let's Do This</a>
                         and
-                        <a href="https://tailwindtemplates.co" rel="nofollow"
-                            class="text-white hover:text-theme-color">Tailwind Templates</a>
+                        <a href="#" rel="nofollow" class="text-white hover:text-theme-color">Team</a>
                     </p>
                 </div>
                 <!-- footer copyright content -->
